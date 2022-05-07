@@ -1,6 +1,6 @@
-# ## Hola, I'm [Harshvrdhan Singh!](https://moneshvenkul.github.io/) 👋
+# ## Namaskar, I'm [Harshvardhan Singh!](https://harshvrdhansingh.github.io/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="harshvardhansingh" /> </p>
 
 
 <a href="https:// www.linkedin.com/in/harshvrdhansingh/">
