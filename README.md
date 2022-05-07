@@ -23,7 +23,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
-[![Linkedin: Harshvardhan Singh](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvrdhansing/)](https://www.linkedin.com/in/harshvrdhansingh/)
+[![Linkedin: Harshvardhan Singh](https://img.shields.io/badge/-harshvardhansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvrdhansing/)](https://www.linkedin.com/in/harshvrdhansingh/)
 
 
 **Languages and Tools:**  
