@@ -1,30 +1,17 @@
 # ## Namaskar, I'm [Harshvardhan Singh!](https://harshvrdhansingh.github.io/) 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="harshvardhansingh" /> </p>
-
-
-<a href="https:// www.linkedin.com/in/harshvrdhansingh/">
-  <img align="left" alt="Harshvardhan Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Harshvardhan">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+ 
 
 <br/>
 <br/>
-
-
 
 - 🔭 I’m Entusatic learner.
 - 🌱 I’m currently learning more about Full Stack Development.
-- 🤔 I’m looking for help with career guidance.
-- 💬 Ask me about Full Stack Development or any tech related stuff.
+- 🤔 I’m looking for Font-end related work.
+- 💬 Ask me about Front-end development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - harshvardhansingh](https://www.linkedin.com/in/harshvrdhansingh/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I would love to work with same minded people like me as a team.
+- ⚡ Fun fact: I would love to work with people like me as a team.
 
 [![Linkedin: Harshvardhan Singh](https://img.shields.io/badge/-harshvardhansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshvrdhansing/)](https://www.linkedin.com/in/harshvrdhansingh/)
-
 
 **Languages and Tools:**  
 
